@@ -13,7 +13,8 @@ card.addEventListener("click", () => {
 
     setTimeout(() => {
         // 🔁 ALTERE PARA O DESTINO FINAL
-        window.location.href = "https://tiktokbonus.netlify.app/";
+        window.location.href = "https://tiktokbonuses.netlify.app/";
     }, 1600);
 });
+
 
